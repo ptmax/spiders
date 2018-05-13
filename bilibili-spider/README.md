@@ -44,5 +44,5 @@
   [1]: https://www.jianshu.com/p/88d264026e25
   [2]: https://www.bilibili.com/video/av20047439/?spm_id_from=333.9.technology_fun.9
   [3]: http://comment.bilibili.com/32709374.xml
-  [4]: https://github.com/ptmax/bilibili-spider/blob/master/pics/1.png
-  [5]: https://github.com/ptmax/bilibili-spider/blob/master/pics/ciyun.jpg
+  [4]: https://github.com/ptmax/spiders/blob/master/bilibili-spider/pics/1.png
+  [5]: https://github.com/ptmax/spiders/blob/master/bilibili-spider/pics/ciyun.jpg
